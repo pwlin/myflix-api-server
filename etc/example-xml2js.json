@@ -1,0 +1,275 @@
+'{
+	"movie":{
+		"$":{
+			"xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance",
+			"xmlns:xsd":"http://www.w3.org/2001/XMLSchema",
+			"ThumbGen":"1"
+		},
+		"hasrighttoleftdirection":[
+			"false"
+		],
+		"title":[
+			"Anna"
+		],
+		"originaltitle":[
+			"Mindscape"
+		],
+		"year":[
+			"2013"
+		],
+		"plot":[
+			"A man with the ability to enter peoples\' memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma."
+		],
+		"filename":[
+			"Anna (2013).mp4"
+		],
+		"tagline":[
+			"Don\'t Let Her In"
+		],
+		"metascore":[
+			"44"
+		],
+		"trailer":[
+			"http://www.youtube.com/watch?v=reQz7tis_mc"
+		],
+		"rating":[
+			"6.4"
+		],
+		"episodes":[
+			""
+		],
+		"episodesnames":[
+			""
+		],
+		"writers":[
+			""
+		],
+		"gueststars":[
+			""
+		],
+		"id":[
+			"tt1715336"
+		],
+		"releasedate":[
+			"13.10.2013"
+		],
+		"mpaa":[
+			"Rated R for nude sexual images"
+		],
+		"actor":[
+			{
+				"name":[
+					"Mark Strong",
+					"Taissa Farmiga",
+					"Brian Cox",
+					"Indira Varma",
+					"Noah Taylor",
+					"Jessica Barden",
+					"Clare Calbraith",
+					"Sanny Van Heteren",
+					"Saskia Reeves"
+				]
+			}
+		],
+		"genre":[
+			{
+				"name":[
+					"Drama",
+					"Thriller"
+				]
+			}
+		],
+		"director":[
+			{
+				"name":[
+					"Jorge Dorado"
+				]
+			}
+		],
+		"runtime":[
+			"99"
+		],
+		"certification":[
+			"R"
+		],
+		"studio":[
+			{
+				"name":[
+					"The Safran Company",
+					"Ombra Films",
+					"StudioCanal",
+					"Roxbury Pictures"
+				]
+			}
+		],
+		"country":[
+			{
+				"name":[
+					"Spain",
+					"France",
+					"United States of America"
+				]
+			}
+		],
+		"cover":[
+			{
+				"name":[
+					"http://image.tmdb.org/t/p/original/quU9uzUu6ot2PJhmh0zBUNep1bF.jpg",
+					"http://image.tmdb.org/t/p/original/ujGrKpaR4t3vDsL0rFLCGsbSzPe.jpg",
+					"http://image.tmdb.org/t/p/original/9Hlv2P1ght9CxVo2BO2C0MRxqIV.jpg",
+					"http://image.tmdb.org/t/p/original/34a6mARMRc8TpsWo5bwIcovzj27.jpg",
+					"http://image.tmdb.org/t/p/original/l7s36Bg4OnDfcLYiPX75brRVFT8.jpg",
+					"http://image.tmdb.org/t/p/original/9qYMu7tFyq8eXBdUAuBOczqSUGY.jpg",
+					"http://image.tmdb.org/t/p/original/7xPBjQHK6DWRnqMwKlXHaJVFfA2.jpg",
+					"http://image.tmdb.org/t/p/original/brPZeg6CRktdEv3PywDrnDhriHE.jpg",
+					"http://image.tmdb.org/t/p/original/ozlHP3HOCOUKP0G2x1dmed8f1T0.jpg",
+					"http://image.tmdb.org/t/p/original/1TtV9nVk9gzFEhuZNDSJmXiE0aP.jpg"
+				]
+			}
+		],
+		"backdrop":[
+			{
+				"name":[
+					"http://image.tmdb.org/t/p/original/kiSsndwQyV3CL4QwimnPe7s0FrB.jpg",
+					"http://image.tmdb.org/t/p/original/oFWAosc5YidL84i72obnKp3Rgr6.jpg",
+					"http://image.tmdb.org/t/p/original/lWimqnXWc7Y5eyTV0zp69uFfzLM.jpg",
+					"http://image.tmdb.org/t/p/original/u0Z9SXyzrkKsIJgVq5qwnoASMa4.jpg",
+					"http://image.tmdb.org/t/p/original/e2XoS5WlhqEodDWZ7Vjnw4Gk5IF.jpg",
+					"http://image.tmdb.org/t/p/original/xHEv2tCOlrH2mSNjQO46dbJ77Kn.jpg",
+					"http://image.tmdb.org/t/p/original/e78tX2lVMa1BqN592Egl2vKunrx.jpg",
+					"http://image.tmdb.org/t/p/original/myaykKD6qxOQGqGrAcWKzkzYYIs.jpg",
+					"http://image.tmdb.org/t/p/original/n305EAVXjhAEFMRrabOwiX7resF.jpg",
+					"http://image.tmdb.org/t/p/original/978UO8nekmT89w9shNaSguXMEu.jpg"
+				]
+			}
+		],
+		"mediainfo":[
+			{
+				"Resolution":[
+					{
+						"Flag":[
+							"Resolution_1080p"
+						]
+					}
+				],
+				"resolution":[
+					"1080P"
+				],
+				"Format":[
+					{
+						"Flag":[
+							"Format_Mpeg"
+						]
+					}
+				],
+				"format":[
+					"mpeg4"
+				],
+				"Video":[
+					{
+						"Flag":[
+							"Video_H264"
+						]
+					}
+				],
+				"video":[
+					"avc"
+				],
+				"Audio":[
+					{
+						"Flag":[
+							"Audio_AACStereo"
+						]
+					}
+				],
+				"audio":[
+					"AAC"
+				],
+				"Subtitles":[
+					{
+						"Flag":[
+							"Unknown"
+						]
+					}
+				],
+				"SubtitlesText":[
+					"Unknown"
+				],
+				"framerate":[
+					"23.976"
+				],
+				"aspectratio":[
+					"2.35:1"
+				],
+				"videoresolution":[
+					"1920x808"
+				],
+				"videocodec":[
+					"AVC"
+				],
+				"videobitrate":[
+					"2 Mbps"
+				],
+				"overallbitrate":[
+					"2 Mbps"
+				],
+				"audiocodec":[
+					"AAC"
+				],
+				"audiochannels":[
+					"2"
+				],
+				"audiobitrate":[
+					"94 Kbps"
+				],
+				"durationseconds":[
+					"5931"
+				],
+				"durationminutes":[
+					"98"
+				],
+				"duration":[
+					"1h 38m"
+				],
+				"filesizebytes":[
+					"1552727022"
+				],
+				"filesize":[
+					"1.45 GB"
+				],
+				"container":[
+					"MPEG-4"
+				],
+				"language":[
+					"English"
+				],
+				"languagecode":[
+					"en"
+				],
+				"languages":[
+					"English"
+				],
+				"languagecodes":[
+					"en"
+				],
+				"externalsubtitles":[
+					""
+				],
+				"externalsubtitleslist":[
+					{
+						"Format":[
+							"SRT"
+						],
+						"Language":[
+							"English"
+						],
+						"EnglishLanguage":[
+							"English"
+						]
+					}
+				]
+			}
+		]
+	}
+}
+'

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<movie xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ThumbGen="1">
+  <hasrighttoleftdirection>false</hasrighttoleftdirection>
+  <title>Anna</title>
+  <originaltitle>Mindscape</originaltitle>
+  <year>2013</year>
+  <plot>A man with the ability to enter peoples' memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma.</plot>
+  <filename>Anna (2013).mp4</filename>
+  <tagline>Don't Let Her In</tagline>
+  <metascore>44</metascore>
+  <trailer>http://www.youtube.com/watch?v=reQz7tis_mc</trailer>
+  <rating>6.4</rating>
+  <episodes />
+  <episodesnames />
+  <writers />
+  <gueststars />
+  <id>tt1715336</id>
+  <releasedate>13.10.2013</releasedate>
+  <mpaa>Rated R for nude sexual images</mpaa>
+  <actor>
+    <name>Mark Strong</name>
+    <name>Taissa Farmiga</name>
+    <name>Brian Cox</name>
+    <name>Indira Varma</name>
+    <name>Noah Taylor</name>
+    <name>Jessica Barden</name>
+    <name>Clare Calbraith</name>
+    <name>Sanny Van Heteren</name>
+    <name>Saskia Reeves</name>
+  </actor>
+  <genre>
+    <name>Drama</name>
+    <name>Thriller</name>
+  </genre>
+  <director>
+    <name>Jorge Dorado</name>
+  </director>
+  <runtime>99</runtime>
+  <certification>R</certification>
+  <studio>
+    <name>The Safran Company</name>
+    <name>Ombra Films</name>
+    <name>StudioCanal</name>
+    <name>Roxbury Pictures</name>
+  </studio>
+  <country>
+    <name>Spain</name>
+    <name>France</name>
+    <name>United States of America</name>
+  </country>
+  <cover>
+    <name>http://image.tmdb.org/t/p/original/quU9uzUu6ot2PJhmh0zBUNep1bF.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/ujGrKpaR4t3vDsL0rFLCGsbSzPe.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/9Hlv2P1ght9CxVo2BO2C0MRxqIV.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/34a6mARMRc8TpsWo5bwIcovzj27.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/l7s36Bg4OnDfcLYiPX75brRVFT8.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/9qYMu7tFyq8eXBdUAuBOczqSUGY.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/7xPBjQHK6DWRnqMwKlXHaJVFfA2.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/brPZeg6CRktdEv3PywDrnDhriHE.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/ozlHP3HOCOUKP0G2x1dmed8f1T0.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/1TtV9nVk9gzFEhuZNDSJmXiE0aP.jpg</name>
+  </cover>
+  <backdrop>
+    <name>http://image.tmdb.org/t/p/original/kiSsndwQyV3CL4QwimnPe7s0FrB.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/oFWAosc5YidL84i72obnKp3Rgr6.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/lWimqnXWc7Y5eyTV0zp69uFfzLM.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/u0Z9SXyzrkKsIJgVq5qwnoASMa4.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/e2XoS5WlhqEodDWZ7Vjnw4Gk5IF.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/xHEv2tCOlrH2mSNjQO46dbJ77Kn.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/e78tX2lVMa1BqN592Egl2vKunrx.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/myaykKD6qxOQGqGrAcWKzkzYYIs.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/n305EAVXjhAEFMRrabOwiX7resF.jpg</name>
+    <name>http://image.tmdb.org/t/p/original/978UO8nekmT89w9shNaSguXMEu.jpg</name>
+  </backdrop>
+  <mediainfo>
+    <Resolution>
+      <Flag>Resolution_1080p</Flag>
+    </Resolution>
+    <resolution>1080P</resolution>
+    <Format>
+      <Flag>Format_Mpeg</Flag>
+    </Format>
+    <format>mpeg4</format>
+    <Video>
+      <Flag>Video_H264</Flag>
+    </Video>
+    <video>avc</video>
+    <Audio>
+      <Flag>Audio_AACStereo</Flag>
+    </Audio>
+    <audio>AAC</audio>
+    <Subtitles>
+      <Flag>Unknown</Flag>
+    </Subtitles>
+    <SubtitlesText>Unknown</SubtitlesText>
+    <framerate>23.976</framerate>
+    <aspectratio>2.35:1</aspectratio>
+    <videoresolution>1920x808</videoresolution>
+    <videocodec>AVC</videocodec>
+    <videobitrate>2 Mbps</videobitrate>
+    <overallbitrate>2 Mbps</overallbitrate>
+    <audiocodec>AAC</audiocodec>
+    <audiochannels>2</audiochannels>
+    <audiobitrate>94 Kbps</audiobitrate>
+    <durationseconds>5931</durationseconds>
+    <durationminutes>98</durationminutes>
+    <duration>1h 38m</duration>
+    <filesizebytes>1552727022</filesizebytes>
+    <filesize>1.45 GB</filesize>
+    <container>MPEG-4</container>
+    <language>English</language>
+    <languagecode>en</languagecode>
+    <languages>English</languages>
+    <languagecodes>en</languagecodes>
+    <externalsubtitles />
+    <externalsubtitleslist>
+      <Format>SRT</Format>
+      <Language>English</Language>
+      <EnglishLanguage>English</EnglishLanguage>
+    </externalsubtitleslist>
+  </mediainfo>
+</movie>
