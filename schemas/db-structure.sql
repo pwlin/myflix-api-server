@@ -7,6 +7,7 @@ CREATE TABLE "movies" (
     "folder" TEXT(255) NOT NULL,
     "folderUri" TEXT NOT NULL,
     "filename" TEXT(255) NOT NULL,
+    "filenameUri" TEXT(255) NOT NULL,
     "cover" TEXT,
     "tagline" TEXT(255),
     "year" TEXT(10),
@@ -22,7 +23,7 @@ CREATE TABLE "movies" (
     "resolution" TEXT(10),
     "hassubtitle" TEXT(3),
     "language" TEXT,
-    "durationminutes" TEXT(20), 
+    "durationminutes" TEXT(20),
     "filesize" TEXT(10),
     "filesizebytes" TEXT(100),
     "isnew" TEXT(3)
