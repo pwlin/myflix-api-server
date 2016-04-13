@@ -1,5 +1,5 @@
 /*jslint nomen:true, node:true, plusplus:true */
-/*global */
+/*global all */
 try {
     var config = require('./config.json');
 } catch (e) {
@@ -55,6 +55,7 @@ var db = new sqlite3.cached.Database(path.join(__dirname, './db/db.sqlite'), fun
                     } else if (process.argv[2] === 'thumbs') {
                         thumbsVTT.initGenerateThumbs(config.NEW_MOVIES_ROOT);
                         thumbsVTT.initGenerateThumbs(config.MOVIES_ROOT);
+                        thumbsVTT.initGenerateThumbs(config.COMICS_ROOT);
                     } else {
                         serve(db, config);
                     }
