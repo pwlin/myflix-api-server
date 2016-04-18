@@ -4,7 +4,7 @@
   "IP": "127.0.0.1",
   "PORT": "6400",
   "AGGREGATE_ROOT_URI": "http://localhost/myfiles",
-  "NEW_MOVIES_ROOT": "/NEW_MOVIES",
-  "MOVIES_ROOT": "/Movies",
-  "COMICS_ROOT": "/COMICS"
+  "NEW_MOVIES_ROOT": "/Videos/New_Movies",
+  "MOVIES_ROOT": "/Videos/Movies",
+  "ANIMATIONS_ROOT": "/Videos/Animations"
 }

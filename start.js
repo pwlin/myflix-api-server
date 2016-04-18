@@ -31,7 +31,7 @@ var thumbsVTT = require('./lib/thumbsvtt/index');
 
 var db = new sqlite3.cached.Database(path.join(__dirname, './db/db.sqlite'), function () {
     'use strict';
-    db.all('SELECT name FROM sqlite_master WHERE type="table" AND name="movies";', function (err, rows) {
+    db.all('SELECT name FROM sqlite_master WHERE type="table" AND name="media";', function (err, rows) {
         if (rows.length > 0) {
             if (process.argv[2] === 'aggregate') {
                 db.close(function () {
@@ -40,6 +40,7 @@ var db = new sqlite3.cached.Database(path.join(__dirname, './db/db.sqlite'), fun
             } else if (process.argv[2] === 'thumbs') {
                 thumbsVTT.initGenerateThumbs(config.NEW_MOVIES_ROOT);
                 thumbsVTT.initGenerateThumbs(config.MOVIES_ROOT);
+                thumbsVTT.initGenerateThumbs(config.ANIMATIONS_ROOT);
             } else {
                 serve(db, config);
             }
@@ -55,7 +56,7 @@ var db = new sqlite3.cached.Database(path.join(__dirname, './db/db.sqlite'), fun
                     } else if (process.argv[2] === 'thumbs') {
                         thumbsVTT.initGenerateThumbs(config.NEW_MOVIES_ROOT);
                         thumbsVTT.initGenerateThumbs(config.MOVIES_ROOT);
-                        thumbsVTT.initGenerateThumbs(config.COMICS_ROOT);
+                        thumbsVTT.initGenerateThumbs(config.ANIMATIONS_ROOT);
                     } else {
                         serve(db, config);
                     }
